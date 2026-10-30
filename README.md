@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0704-binary-search](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Greedy
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
