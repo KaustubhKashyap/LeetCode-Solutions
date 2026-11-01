@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0509-fibonacci-number](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -64,8 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
