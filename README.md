@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0268-missing-number](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/KaustubhKashyap/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
